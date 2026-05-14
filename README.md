@@ -22,6 +22,18 @@ Topics: Markov chains, Lévy processes, Gaussian processes, conditional expectat
 
 🔗 [thedreamJK7/stochastic-II](https://github.com/thedreamJK7/stochastic-II)
 
+### Numerik III
+Seminar exercises for Numerical Analysis III. Solved in Python with NumPy.
+
+🔗 [thedreamJK7/Numerik-3](https://github.com/thedreamJK7/Numerik-3)
+
+### Sequential Machine Learning
+Optimizing Sequential Experimental Design with Deep Reinforcement Learning.
+
+Topics: reinforcement learning, sequential decision making, experimental design, deep learning.
+
+🔗 [thedreamJK7/sequential-machine-learning](https://github.com/thedreamJK7/sequential-machine-learning)
+
 ---
 
 ## 📬 Contact
